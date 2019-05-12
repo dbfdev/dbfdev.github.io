@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages - Dario Bittencourt Franco
+## GitHub Pages - Dario Bittencourt Franco
+
+title: Welcome to my portfolio website.
+description: Here I'll list my achievements and projects.
 
 You can use the [editor on GitHub](https://github.com/dbfdev/dbfdev.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
